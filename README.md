@@ -1,16 +1,16 @@
-### Hi there 👋
+# Artem Saringyulyan 👋
 
-<!--
-**aasaringyulyan/aasaringyulyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a beginner Software Engeneer
 
-Here are some ideas to get you started:
+### Languages and Tools:
+![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=47C5FB)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=47C5FB)
+![C++](https://img.shields.io/badge/-c%2b%2b-090909?style=for-the-badge&logo=c%2b%2b&logoColor=47C5FB)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=47C5FB)
+![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git&logoColor=47C5FB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Follow Me:
+[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=47C5FB)](https://t.me/KatawaS)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=47C5FB)](https://vk.com/katawas)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aasaringyulyan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
