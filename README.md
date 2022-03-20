@@ -1,4 +1,4 @@
-![Header](https://github.com/aasaringyulyan/aasaringyulyan/blob/main/assets/as.jpg)
+![Header]()
 
 ## I'm a beginner Software Engeneer
 
